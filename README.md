@@ -11,6 +11,9 @@ You would require to have an AWS account to be able to build cloud infrastructur
 #### 2. Jenkins on Ubuntu VM
 As a part of the project, you will need to install Jenkins and a few plugins to assist your requirements, as mentioned in the "Jenkins Pipelines on AWS --> Project Details" page in the classroom. 
 
+* Install the BlueOcean Plugin 
+* Install AWS Pipeline Plugin
+
 ## Prerequisite
 1. A little knowledge of basic commands in Unix terminal.
 1. Understanding of software testing frameworks - JMeter and JUnit
